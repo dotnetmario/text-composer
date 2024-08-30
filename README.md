@@ -1,0 +1,2 @@
+# text-composer
+Chrome extension
